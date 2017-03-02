@@ -1,8 +1,8 @@
 {
-  "name": "babel-npm-module-example",
-  "version": "1.0.0",
-  "author": "anvk",
-  "main": "dist/developer.js",
+  "name": "innograph-template",
+  "version": "1.0.1",
+  "author": "lior@linnovate.net",
+  "main": "dist/template.js",
   "description": "A boilerplate to start writing your NPM modules in ES6 using Babel.",
   "contributors": [
     {
