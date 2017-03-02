@@ -1,7 +1,8 @@
 import Profile from './schemas/profile.js';
-import Post from './schemas/post.js';
+import Resolvers from './resolver.js';
 
-export default () => [Profile, Post ];
+const template ={
+	Profile,Resolvers
+}
 
-
-
+export default template;
